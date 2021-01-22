@@ -8,22 +8,21 @@ description: "PrivacyTools is provided with good intentions on an &quot;as-is&qu
 <span class="badge badge-secondary mt-5">Section 1</span>
 # Legal Disclaimer
 
-<span class="lead">PrivacyTools is not a law firm. As such, the PrivacyTools website and contributors are not providing legal advice. The material and recommendations in our website and guides do not constitute legal advice nor does contributing to the website or communicating with PrivacyTools or other contributors about our website create an attorney-client relationship.</span>
+<span class="lead">This is unofficial translation of PrivacyTools website to Slovak language. This website is not anyhow affiliated, endorsed and/or cross-checked by the original PrivacyTools team. We are not a law firm. As such, the this website and its contributors are not providing legal advice. The material and recommendations in our website and guides do not constitute legal advice nor does contributing to the website or communicating with contributors about this website create an attorney-client relationship.
+ </span>
 
 Running this website, like any human endeavor, involves uncertainty and trade-offs. We hope this website helps, but it may include mistakes, and can’t address every situation. If you have any questions about your situation, we encourage you to do your own research, seek out other experts, and discuss with your and the PrivacyTools community. If you have any legal questions, you should consult with your own legal counsel before moving forward.
 
-PrivacyTools is an open source project contributed to under licenses that include terms that, for the protection of the website and its contributors, make clear that the PrivacyTools project and website is offered "as-is", without warranty, and disclaiming liability for damages resulting from using the website or any recommendations contained within. PrivacyTools does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the website or otherwise relating to such materials on the website or on any third-party sites linked on this site.
+This is an open source project contributed to under licenses that include terms that, for the protection of the website and its contributors, make clear that the website is offered "as-is", without warranty, and disclaiming liability for damages resulting from using the website or any recommendations contained within. We do not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the website or otherwise relating to such materials on the website or on any third-party sites linked on this site.
 
-PrivacyTools additionally does not warrant that this website will be constantly available, or available at all.
+We additionally do not warrant that this website will be constantly available, or available at all.
 
 <span class="badge badge-secondary mt-5">Section 2</span>
 # Licenses
 
-<span class="lead">Content copyright on this website is waived under the terms of [CC0 1.0 Universal](https://github.com/privacytools/privacytools.io/blob/master/LICENSE.txt).</span>
+<span class="lead">This translation of PrivacyTools to Slovak language is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. This license applies only to the content of the website, not to the html, css or other code that is used to create website.</span>
 
-In certain jurisdictions, namely those in which the copyright waiver in the CC0-1.0 is judged for any reason to be legally invalid or ineffective under applicable law, content may be copyright &copy; PrivacyTools contributors, released under the [CC 1.0 Universal](https://github.com/privacytools/privacytools.io/blob/master/LICENSE.txt) license.
-
-**Content** on this website is based on [github.com/privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) and is made freely available under the CC-1.0.
+**Content** on this website is based on [github.com/privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) by &copy; PrivacyTools contributors, released under the [CC 1.0 Universal](https://github.com/privacytools/privacytools.io/blob/master/LICENSE.txt) license.
 
 Code, including source files and code samples if any in the content, is released under CC-1.0, with the following exceptions:
 
@@ -44,9 +43,9 @@ When you contribute to this repository you are doing so under the above licenses
 <span class="badge badge-secondary mt-5">Section 3</span>
 # Acceptable Use
 
-<span class="lead">You may not use this website in any way that causes or may cause damage to the website or impairment of the availability or accessibility of PrivacyTools, or in any way which is unlawful, illegal, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity.</span>
+<span class="lead">You may not use this website in any way that causes or may cause damage to the website or impairment of the availability or accessibility of this website, or in any way which is unlawful, illegal, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity.</span>
 
-You must not conduct any systematic or automated data collection activities on or in relation to this website without PrivacyTools's express written consent, including:
+You must not conduct any systematic or automated data collection activities on or in relation to this website without ours express written consent, including:
 
 * Excessive Automated Scans
 * Denial of Service Attacks
@@ -54,4 +53,4 @@ You must not conduct any systematic or automated data collection activities on o
 - Data Mining
 - ‘Framing’ (IFrames)
 
-We take the security of our website, infrastructure, and services very seriously. Our [SECURITY.md](https://github.com/privacytools/.github/blob/master/SECURITY.md) document outlines responsible disclosure guidelines and other security-related information.
+<!--We take the security of our website, infrastructure, and services very seriously. Our [SECURITY.md](https://github.com/privacytools/.github/blob/master/SECURITY.md) document outlines responsible disclosure guidelines and other security-related information.-->
